@@ -1,3 +1,3 @@
 # palindrome-bday
  
-Check whether your birthday is palindrome ornot
+Check whether your birthday is palindrome or not
